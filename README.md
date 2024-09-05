@@ -1,4 +1,4 @@
-# Outline
+# Shanna's Blog 
 [week 1](README.md#week-1)
 ---
 
