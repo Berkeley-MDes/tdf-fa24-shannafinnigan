@@ -7,7 +7,7 @@
 
 I made a wooden laser-cut lantern out of plywood and cloth. I used a flower design and image traced it using Illustrator, cleaned up the spots where the design was not fitting together properly, and then measured out the lantern dimensions around this design. Here is my initial sketch and ideation for the project. 
 
-<img width="400" alt="lantern sketch" src="assets/IMG_9226.jpg" style="border-radius:50%">
+<img width="400" alt="lantern sketch" src="assets/IMG_9226.jpg" style="border-radius:50">
 
 Here is the process of laser-cutting. I also took a picture of the pieces left behind after I removed my lantern- it looked super cool! I kind of wanted to reuse them for an art piece. 
 
