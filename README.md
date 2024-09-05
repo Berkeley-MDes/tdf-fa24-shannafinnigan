@@ -1,9 +1,9 @@
-# Shanna's Blog 
+# Shanna's Blog :tulip:
 [week 1](README.md#week-1)
 ---
 
 # Week 1 #
-## Week of 09/05/2024
+## :calendar: Week of 09/05/2024
 
 I made a wooden laser-cut lantern out of plywood and cloth. I used a flower design and image traced it using Illustrator, cleaned up the spots where the design was not fitting together properly, and then measured out the lantern dimensions around this design. Here is my initial sketch and ideation for the project. 
 
@@ -17,6 +17,7 @@ This was really fun. I ended up being able to get it cut exactly how I wanted on
 
 <img width="400" alt="final lantern" src="assets/IMG_9217.jpg"> 
 
+## :key: Key Learnings 
 In terms of learnings for this week, I'd say I have a few main things:
 1. Don't plan your project timeline with the expectation of having it completed exactly how you want the first time. Build in time for extra iterations + mistakes/ unforseen circumstances.
 2. Use your peers + classmates' expertise and knowledge to your advantage! Collaboration goes a long way and saves so much time when it comes to problem-solving.
