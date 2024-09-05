@@ -11,11 +11,11 @@ I made a wooden laser-cut lantern out of plywood and cloth. I used a flower desi
 
 Here is the process of laser-cutting. I also took a picture of the pieces left behind after I removed my lantern- it looked super cool! I kind of wanted to reuse them for an art piece. 
 
-<img width="200" alt="lantern laser cut in progress" src="assets/IMG_9215.jpg"> <img width="200" alt="lantern laser cut in progress" src="assets/IMG_9216.jpg">
+<kbd><img width="200" alt="lantern laser cut in progress" src="assets/IMG_9215.jpg"></kbd> <kbd><img width="200" alt="lantern laser cut in progress" src="assets/IMG_9216.jpg"></kbd>
 
 This was really fun. I ended up being able to get it cut exactly how I wanted on the first run-through, which was lucky. I know that some other students were having trouble with getting the laser to cut all the way through their material, with the vectors in the Illustrator file not being properly set up, etc. I'm grateful that I was able to get assistance from my classmate for this project and learn from the troubles he ran into, because it's been a while since I've used a laser cutter. I also have only ever cut arcylic, so using wood was a new experience for me. I also poked around in Rhino a bit this week, which was honestly a bit overwhelming. I have never used it before, and the last time I used a 3d modeling software (Fusion 360, for me) was several years ago. I'm excited to 3d print something down the line, though. I think there is a lot of utility in knowing how to model and print pieces and parts on your own. 
 
-<img width="400" alt="final lantern" src="assets/IMG_9217.jpg"> 
+<kbd><img width="400" alt="final lantern" src="assets/IMG_9217.jpg"></kbd>
 
 ## :key: Key Learnings 
 In terms of learnings for this week, I'd say I have a few main things:
