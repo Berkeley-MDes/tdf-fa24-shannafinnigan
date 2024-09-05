@@ -22,3 +22,6 @@ In terms of learnings for this week, I'd say I have a few main things:
 1. Don't plan your project timeline with the expectation of having it completed exactly how you want the first time. Build in time for extra iterations + mistakes/ unforseen circumstances.
 2. Use your peers + classmates' expertise and knowledge to your advantage! Collaboration goes a long way and saves so much time when it comes to problem-solving.
 3. Not everything has to be done from scratch- use the resources you have to create something cool! Finding inspiration for things that already exist is a great starting point.
+
+## :telescope: Speculations
+Here are some speculations for the future of my work based on this past week. Overall, I'm feeling really good about the way our cohort has worked together and helped each other out thus far. It's been cool to see people exchange ideas and give advice based on their own specific background, which made it super interesting to see how different disciplines started to overlap. 
