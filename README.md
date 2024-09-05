@@ -3,7 +3,7 @@
 ---
 
 # Week 1 #
-## :calendar: Week of 09/05/2024
+## :date: 09/05/2024
 
 I made a wooden laser-cut lantern out of plywood and cloth. I used a flower design and image traced it using Illustrator, cleaned up the spots where the design was not fitting together properly, and then measured out the lantern dimensions around this design. Here is my initial sketch and ideation for the project. 
 
