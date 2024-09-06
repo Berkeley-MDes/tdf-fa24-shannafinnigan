@@ -1,4 +1,4 @@
-# Shanna's Blog :tulip:
+# Shanna's Blog :tulip: #
 [week 1](README.md#week-1)
 ---
 
