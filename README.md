@@ -1,5 +1,5 @@
 # Shanna's Blog :tulip: #
-[week 1](README.md#week-1)
+[week 1](README.md#week-1)\
 [week 2](README.md#week-2)
 ---
 
