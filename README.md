@@ -1,6 +1,17 @@
 # Shanna's Blog :tulip: #
-[week 1](README.md#week-1)\
-[week 2](README.md#week-2)
+[week 2](README.md#week-2)\
+[week 1](README.md#week-1)
+
+# Week 2 #
+## :pushpin: 09/12/2024
+
+My concept map trying to understand the Grasshopper diagram for the 3D printed phone stand file:
+<kbd><img width="90%" alt="concept map" src="assets/Grasshopper Diagram.png"></kbd>
+
+
+## :key: Key Learnings 
+## :telescope: Speculations
+
 ---
 
 # Week 1 #
@@ -27,14 +38,3 @@ In terms of learnings for this week, I'd say I have a few main things:
 ## :telescope: Speculations
 Here are some speculations for the future of my work based on this past week. Overall, I'm feeling really good about the way our cohort has worked together and helped each other out thus far. It's been cool to see people exchange ideas and give advice based on their own specific background, which made it super interesting to see how different disciplines started to overlap. I have a feeling we will continue to collaborate and give each other helpful insights going forward with the program. I think it would be cool to start experimenting with the emerging tools in the 3d space, such as AI to CAD and AR. Would be cool to add a digital/ interactive element to stuff we laser cut or 3d print that's unlocked and accessible from our mobile devices. 
 
-___
-
-# Week 2 #
-## :pushpin: 09/12/2024
-
-My concept map trying to understand the Grasshopper diagram for the 3D printed phone stand file:
-<kbd><img width="90%" alt="concept map" src="assets/Grasshopper Diagram.png"></kbd>
-
-
-## :key: Key Learnings 
-## :telescope: Speculations
