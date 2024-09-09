@@ -33,6 +33,8 @@ ___
 ## :pushpin: 09/12/2024
 
 My concept map trying to understand the Grasshopper diagram for the 3D printed phone stand file:
+<kbd><img width="90%" alt="concept map" src="assets/Grasshopper Diagram.png"></kbd>
+
 
 ## :key: Key Learnings 
 ## :telescope: Speculations
