@@ -5,10 +5,14 @@
 # Week 2 #
 ## :pushpin: 09/12/2024
 
-I spent this past weekend navigating through the Rhino/ Grasshopper file and playing around with the inputs to see how it affected the model. I've used Fusion a little bit before, but I've never seen the workflow presented as a map in this way, so it was a bit challenging for sure. It's a less visual, more logic-based approach to modeling that I'm not used to. 
+I spent this past weekend navigating through the Rhino/ Grasshopper file and playing around with the inputs to see how it affected the model. I've used Fusion a little bit before, but I've never seen the workflow presented as a map in this way, so it was a bit challenging for sure. It's a less visual, more logic-based approach to modeling that I'm not used to. It's almost like a mindmap or concept map for the process of making a model, turning certain witches off and on, funneling certain inputs into certain fields.
 My concept map trying to understand the Grasshopper diagram for the 3D printed phone stand file:
 
 <kbd><img width="100%" alt="concept map" src="assets/Grasshopper Diagram.png"></kbd>
+
+I also played around a bit with editing components/ shapes within the Grasshopper flow. Below, you can see the version I made of the phone case to specifically fit my phone's dimensions. I also made it thicker. Then, I changed the internal cut-out that was originally a cylinder, into a cone, so that there was more of a gradual incline to the cutout. It looks like a little gnome with a red hat :)
+
+<kbd><img height="200" src="assets/thickness.png"></kbd> <kbd><img height="200" src="assets/cone1.png"></kbd> <kbd><img height="200" src="assets/cone2.png"></kbd>
 
 
 ## :key: Key Learnings 
