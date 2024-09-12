@@ -21,8 +21,17 @@ Towards the end of the week, I experimented more with adding my own shapes, this
 
 I didn't realize before seeing TJ go through the process that the "clusters" are actually expanded into their own separate, extra grasshopper spaghetti sections. Almost like a grouping mechanism of some sort. As such, I'd probably update my mindmap to look more like this:
 
+<kbd><img  width="100%" src="assets/Grasshopper Diagram Updated.png"></kbd>
+
+This time, adding a bit more detail and accounting for the fact that these clusters have their own separate logic going on behind the scenes. 
+
 ## :key: Key Learnings 
+I had a couple main learnings so far for this week:
+1. This is a WHOLE NEW way of understanding a design process that I typically have done in a very visual way. It is a more systematic and logic-based mode of creating models. In cases where testing must be done, and the parameters of what you're making are highly important, this is very useful.
+2. Someone asked what the benefit of Grasshopper is vs. just making something directly in Rhino. In Grasshopper, you are able to directly change the parameters you use for your model. You can easily create sliders that allow you to manipulate various aspects. Additionally, it can be used to give feedback for testing purposes. In Rhino alone, this is not possible. 
+
 ## :telescope: Speculations
+I think that this week had a huge learning curve overall. But it got me thinking about the future of design processes. More and more, I keep hearing about how we're headed away from designing individual products, and more towards designing SYSTEMS. This is a prime example. It is less useful to model a shape that you cannot effectively manipulate after the fact, or test to ensure that it is accomodating the specific user it is being designed for. At the end of the day, there are so many different types of users with their own separate needs- in a future where we are able to designed more customized experiences/ systems, this type of design is much needed. 
 
 ---
 
