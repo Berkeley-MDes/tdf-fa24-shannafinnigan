@@ -14,6 +14,12 @@ I also played around a bit with editing components/ shapes within the Grasshoppe
 
 <kbd><img height="200" src="assets/thickness.png"></kbd> <kbd><img height="200" src="assets/cone1.png"></kbd> <kbd><img height="200" src="assets/cone2.png"></kbd>
 
+Towards the end of the week, I experimented more with adding my own shapes, this time replacing the cylinder with a cube. I used TJ's video to follow along and make a new shape from scratch in Grasshopper, bring it into the existing Grasshopper file, and replace the cylinder section of the diagram with my own, plugging in variables where necessary. I think seeing the process from start to finish and him explaining each component as we moved along was extremely helpful to my understanding. 
+
+<kbd><img  width="100%" src="assets/newDiagram.png"></kbd>
+<kbd><img height="200" src="assets/newStand1.png"> </kbd><kbd><img height="200" src="assets/newStand2.png"> </kbd><kbd><img height="200" src="assets/newStand3.png"></kbd>
+
+I didn't realize before seeing TJ go through the process that the "clusters" are actually expanded into their own separate, extra grasshopper spaghetti sections. Almost like a grouping mechanism of some sort. As such, I'd probably update my mindmap to look more like this:
 
 ## :key: Key Learnings 
 ## :telescope: Speculations
