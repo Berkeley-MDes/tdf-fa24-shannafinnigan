@@ -3,7 +3,7 @@
 [week 2](README.md#week-2)\
 [week 1](README.md#week-1)
 
-# Week 3#
+# Week 3 #
 ## :pushpin: 09/19/2024
 
 This week, Project 1 was due! I took my experimentations and continued building upon them. I am interning full-time and had a busy so it was essential that I plan in time accordingly to work on this project, so I made sure to finish it before class on Monday so I could continue adding to it- however, I must've saved wrong and all my progress was lost! :( It was very overwhelming because I knew I had limited time to work on it. But, this is when I felt most supported by my cohort-mates! After expressing my frustrations, I was able to rebuild where I left off, and with the help of my classmates and the Design Specialists, get my project finished and printed in time!
