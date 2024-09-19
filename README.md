@@ -1,6 +1,24 @@
 # Shanna's Blog :tulip: #
+[week 3](README.md#week-3)\
 [week 2](README.md#week-2)\
 [week 1](README.md#week-1)
+
+# Week 3#
+## :pushpin: 09/19/2024
+
+This week, Project 1 was due! I took my experimentations and continued building upon them. I am working full-time so it was 
+
+:arrow_forward: [Link to my Project 1 Video](https://youtu.be/ngysztLlCo8)
+
+## :key: Key Learnings 
+My experimentation started with trying to replace certain parts of the system and scaling/ playing with sliders, and eventually I added in a system of my own and plugged it into what already existed in the file. 
+Overall, this was a new experience for me, because I’m a very visual person and am not used to seeing visual information displayed as a system in this way, but it was a very helpful exercise to see how I could make products that could be easily manipulated and tested. I took away a couple of main things:
+1. You can't do everything all the time. There will be set-backs. This is the time to lean on your peers! To open up and ask for help- there's nothing wrong with not knowing where to pick up again.
+2. It's all about the process, not the end result. I feel like I learned so much more from experimenting and struggling with the software than when it all came together in the end. 
+
+## :telescope: Speculations
+I am particularly interested in how everyday activities/ rituals may be augmented by systematically designed product ecosystems- How far are we willing to integrate Artificial Intelligence in our personal spaces? Makes me think about the idea of entirely smart homes or buildings that authors have predicted in Science fiction
+Overall, I see the benefit of computational design tools and systems design being in creating customized product experiences- increasing democratization, accessibility, and even sustainability.
 
 # Week 2 #
 ## :pushpin: 09/12/2024
