@@ -1,7 +1,23 @@
 # Shanna's Blog :tulip: #
+[week 4](README.md#week-4)\
 [week 3](README.md#week-3)\
 [week 2](README.md#week-2)\
 [week 1](README.md#week-1)
+
+# Week 4 #
+## :pushpin: 09/26/2024
+
+This week, we started thinking about Project 2: "Build a Digital EcoSystem". We are continuing to learn about systems design, but now will go deeper into it, looking at how entire ecosystems work together. I took notes during Tuesday's lecture. I've used ChatGPT to help me put these bullet points together into full sentences. A digital ecosystem consists of several key components that work together to create interactive systems. In the case of the Photon2 microcontroller, it serves as "the brain" of these systems, managing the flow of information between various hardware components like sensors, LEDs, and actuators via firmware code, which acts as the operating system. Electronics, often assembled on breadboards, form the foundation, with discrete components interacting to send data across the ecosystem, often via web-based APIs. These APIs allow programmers to interface with the system, accessing key functions and data points.
+We also discussed HCI. Human-Computer Interaction focuses on how users engage with computers. The process begins with human senses perceiving information, which is then processed by hardware and software. Effective HCI design ensures a seamless connection between human input and digital feedback, enhancing user experience. In physical computing, interactive systems rely on sensors and actuators to bridge the digital and physical worlds. Sensors collect data from the environment, while actuators—such as LEDs, speakers, or robotic components—output responses in the form of signals or physical manipulations. This dynamic interaction is key to creating responsive, real-world applications.
+This will be my first time working with microcontrollers. Microcontrollers, like the Photon2, are small computers designed to manage inputs and outputs through their pins, facilitating the processing of data. Input is processed and converted to output in a cycle that powers a wide variety of applications, from simple LED indicators to complex robotic systems.
+
+To begin understanding how to visualize ecosystems and how components work together, we were given an assignment to map an interaction ecosystem. I chose to map the way that my compost fits into the larger system in Berkeley. 
+
+## :key: Key Learnings 
+Key learning
+
+## :telescope: Speculations
+Speculation
 
 # Week 3 #
 ## :pushpin: 09/19/2024
