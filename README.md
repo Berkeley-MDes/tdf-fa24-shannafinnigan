@@ -14,11 +14,15 @@ This will be my first time working with microcontrollers. Microcontrollers, like
 
 To begin understanding how to visualize ecosystems and how components work together, we were given an assignment to map an interaction ecosystem. I chose to map the way that my compost fits into the larger system in Berkeley. 
 
+<kbd><img  width="600" src="assets/CompostCycle.jpg"></kbd>
+
 ## :key: Key Learnings 
-Key learning
+I learned a lot of new terminology this week regarding digital ecosystems. This, paired with the mapping exercise, created some main takeaways for the week:
+1. HCI encapsulates the deep relationship between human perception and digital feedback, where users’ actions shape a system’s response. 
+2. A digital ecosystem can be viewed as a living network of interconnected elements, each playing a specific role within a larger system- this can be replicated in systems that exist in the natural world, like the subsystem of decomposition that I mentioned in my diagram. 
 
 ## :telescope: Speculations
-Speculation
+Based on these learnings, I speculate that our Project 2 will be focused (and graded on) building an integrated digital ecosystem that responds dynamically to both human input and environmental data. I anticipate learning to work with microcontrollers like the Photon2 to manage complex interactions between hardware components—sensors, actuators, and APIs—creating a seamless flow of information. Because this is something new to me, I'm sure it will be challenging at first, but hopefully, with the help of my cohort mates, I'll be able to perservere and learn some cool new stuff!
 
 # Week 3 #
 ## :pushpin: 09/19/2024
