@@ -26,18 +26,21 @@ Consider how some of the pieces of the ecosystem demo you are engaging in might 
 
 For Monday, we had to play around with the example files. I was able to flash three of them to the Photon 2, including 02_helloworld_spell, 04_make_it_blink, and 03_altering_periodicity. This was a bit challenging at first because I had to remember the steps we had done in class, but I ended up meeting with some classmates and they helped remind me of some of the steps I forgot. For example, being able to see output using the Serial Monitor- which I didn't remember to do on my own. Check out some of the videos I made while flashing these down below! 
 
-<video width="320" controls>
-  <source src="assets/Blink1.MOV" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/b6fdb29a-0a20-44a6-9440-b887d58b7891
 
-![](assets/Blink1.MOV)
+https://github.com/user-attachments/assets/dba4fa9f-45d7-4a89-a4ba-da74995f1df5
+
+I couldn't upload all the videos, because the files are too big for Github, unfortunately. But, overall, it was cool to see! I still don't entirely understand how the pattern of blinking relates to some of the content in the code, but I will investigate that further in the coming week. 
 
 ### Playing with variables
-I played around with the delay time, as well as other variables, to see the effect on the Photon. Some were only noticeable to me in the output terminal. For example, I tried to make a for loop to print something a couple of times. This was an interesting edit. 
-<kbd><img  width="400" src="assets/boing_code.png"></kbd>
+I played around with the delay time, as well as other variables, to see the effect on the Photon. Some were only noticeable to me in the output terminal. For example, I tried to make a for loop to print something a couple of times. This was an interesting edit- the result was the word "boing" repeated based on the number of times I specified in the for loop. I played around with different numbers to see how it affected the output as well. The beginning number I set in "i=0" was the beginning of the loop, I found, and the "i<" or "<=" was the upper limit of the loop. So for example, if I were to start at 
+The delay amount I chose affected how long the program paused for. And where I put it in the program impacted when it paused throughout the duration of the flash. So, the higher the number I put in delay time, the longer it paused. I also tried this code I found on Google. The HIGH and LOW signal seem to turn the LED off and on. I tried changing the value in "int led = D7" to other combinations, and this seemed to change where on the breadboard it would light up. 
 
+<kbd><img  width="400" src="assets/boing_code.png"></kbd> <kbd><img width="500" alt="Screenshot 2024-09-29 at 5 21 03 PM" src="https://github.com/user-attachments/assets/bafaef00-3ebf-4dca-8701-c91d263c3f8b"><kbd>
 
-To begin understanding how to visualize ecosystems and how components work together, we were given an assignment to map an interaction ecosystem. I chose to map the way that my compost fits into the larger system in Berkeley. 
+### How do these elements work together?
+
+The Particle ecosystem integrates both hardware- the Photon 2, and software- on Particle Workbench, which we access through VS Code, and cloud services to form an IoT platform. The Workbench works as the environment for coding and testing, and the Device gets the devices communicate through the cloud. This system is pretty 
 
 
 
