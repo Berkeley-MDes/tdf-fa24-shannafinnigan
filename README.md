@@ -26,12 +26,20 @@ Consider how some of the pieces of the ecosystem demo you are engaging in might 
 
 For Monday, we had to play around with the example files. I was able to flash three of them to the Photon 2, including 02_helloworld_spell, 04_make_it_blink, and 03_altering_periodicity. This was a bit challenging at first because I had to remember the steps we had done in class, but I ended up meeting with some classmates and they helped remind me of some of the steps I forgot. For example, being able to see output using the Serial Monitor- which I didn't remember to do on my own. Check out some of the videos I made while flashing these down below! 
 
+<video width="320" controls>
+  <source src="assets/Blink1.MOV" type="video/mp4">
+</video>
+
+![](assets/Blink1.MOV)
+
 ### Playing with variables
 I played around with the delay time, as well as other variables, to see the effect on the Photon. Some were only noticeable to me in the output terminal. For example, I tried to make a for loop to print something a couple of times. This was an interesting edit. 
+<kbd><img  width="400" src="assets/boing_code.png"></kbd>
+
 
 To begin understanding how to visualize ecosystems and how components work together, we were given an assignment to map an interaction ecosystem. I chose to map the way that my compost fits into the larger system in Berkeley. 
 
-<kbd><img  width="600" src="assets/CompostCycle.jpg"></kbd>
+
 
 # Week 4 #
 ## :pushpin: 09/26/2024
