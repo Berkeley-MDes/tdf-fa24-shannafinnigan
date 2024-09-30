@@ -1,8 +1,37 @@
 # Shanna's Blog :tulip: #
+[week 5](README.md#week-5)\
 [week 4](README.md#week-4)\
 [week 3](README.md#week-3)\
 [week 2](README.md#week-2)\
 [week 1](README.md#week-1)
+
+# Week 5 #
+## :pushpin: 09/30/2024
+
+Describe (in your report) what the changes you’re making in the code result in.
+Example: Can you add a second button? How does that alter the functionality of the circuit, or the overall system? What changes are to be made in the C++ file to account for that?
+Check the official documentation for information on specific functions and concepts.
+Consider what you are engaging with
+there is a
+timing system,
+a number of variables you’re interacting with,
+some output (serial log, LED illumination onboard, outboard LED),
+the ability to push results to the Particle cloud.
+How do these elements work together to make a cohesive whole? How can a system like this benefit a new design you might consider? What are the entry points of this system? What kinds of advantages does it have over others?
+Document your thoughts in your report.
+What kinds of ecosystems are missing in your daily life?
+Document your thoughts in your report.
+Document your failures, successes, and realizations in weekly report
+Consider how some of the pieces of the ecosystem demo you are engaging in might relate to other systems you come across (as annotated in your prior report)
+
+For Monday, we had to play around with the example files. I was able to flash three of them to the Photon 2, including 02_helloworld_spell, 04_make_it_blink, and 03_altering_periodicity. This was a bit challenging at first because I had to remember the steps we had done in class, but I ended up meeting with some classmates and they helped remind me of some of the steps I forgot. For example, being able to see output using the Serial Monitor- which I didn't remember to do on my own. Check out some of the videos I made while flashing these down below! 
+
+### Playing with variables
+I played around with the delay time, as well as other variables, to see the effect on the Photon. Some were only noticeable to me in the output terminal. For example, I tried to make a for loop to print something a couple of times. This was an interesting edit. 
+
+To begin understanding how to visualize ecosystems and how components work together, we were given an assignment to map an interaction ecosystem. I chose to map the way that my compost fits into the larger system in Berkeley. 
+
+<kbd><img  width="600" src="assets/CompostCycle.jpg"></kbd>
 
 # Week 4 #
 ## :pushpin: 09/26/2024
