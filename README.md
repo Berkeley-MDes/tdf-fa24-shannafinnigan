@@ -8,22 +8,6 @@
 # Week 5 #
 ## :pushpin: 09/30/2024
 
-Describe (in your report) what the changes you’re making in the code result in.
-Example: Can you add a second button? How does that alter the functionality of the circuit, or the overall system? What changes are to be made in the C++ file to account for that?
-Check the official documentation for information on specific functions and concepts.
-Consider what you are engaging with
-there is a
-timing system,
-a number of variables you’re interacting with,
-some output (serial log, LED illumination onboard, outboard LED),
-the ability to push results to the Particle cloud.
-How do these elements work together to make a cohesive whole? How can a system like this benefit a new design you might consider? What are the entry points of this system? What kinds of advantages does it have over others?
-Document your thoughts in your report.
-What kinds of ecosystems are missing in your daily life?
-Document your thoughts in your report.
-Document your failures, successes, and realizations in weekly report
-Consider how some of the pieces of the ecosystem demo you are engaging in might relate to other systems you come across (as annotated in your prior report)
-
 For Monday, we had to play around with the example files. I was able to flash three of them to the Photon 2, including 02_helloworld_spell, 04_make_it_blink, and 03_altering_periodicity. This was a bit challenging at first because I had to remember the steps we had done in class, but I ended up meeting with some classmates and they helped remind me of some of the steps I forgot. For example, being able to see output using the Serial Monitor- which I didn't remember to do on my own. Check out some of the videos I made while flashing these down below! 
 
 https://github.com/user-attachments/assets/b6fdb29a-0a20-44a6-9440-b887d58b7891
@@ -40,9 +24,20 @@ The delay amount I chose affected how long the program paused for. And where I p
 
 ### How do these elements work together?
 
-The Particle ecosystem integrates both hardware- the Photon 2, and software- on Particle Workbench, which we access through VS Code, and cloud services to form an IoT platform. The Workbench works as the environment for coding and testing, and the Device gets the devices communicate through the cloud. This system is pretty 
+The Particle ecosystem integrates both hardware- the Photon 2, and software- on Particle Workbench, which we access through VS Code, and cloud services to form an IoT platform. The Workbench works as the environment for coding and testing, and the devices communicate through the cloud.  The wires and buttons that come in the kit work as an interface that connects the user/ a person to the system, allowing them to interact with it and make stuff "happen", or impact the feedback. 
 
+### Entry Points
+🛠️ **Hardware:** Photon 2 microcontroller + sensors provided in the kit\
+💻 **Workbench:** Environment for writing and testing code\
+:cloud: **Particle Cloud:** APIs and Console for managing and controlling devices
 
+### Advantages?
+I don't have experience with any other microcontroller systems, so unfortunately I can't make a direct comparison. But I have some observations of what I think could be seen as advantages, and researched a bit online. It seems like the Particle ecosystem is beneficial because it brings everything together in one place- hardware, cloud, and software—all working together in a system seamlessly. Based on what we talked about in class, it seems like the ability to easily scale up if you're managing a bunch of IoT devices is a perk compared to Arduino.
+
+### What kinds of ecosystems are missing in your daily life?
+:notebook: **Personal Productivity:** I have really been trying to work on increasing my productivity, especially having to balance school with work. I find that the best way for me to keep track of everything ends up being analog in a notebook because The systems for taking notes on tasks, accessing assignments, tracking their progress, and managing timelines is a bit disjointed. It especially feels like there's no automation where I need it. I would like to use a more comprehensive product (maybe airtable? or notion?) to keep track of everything in one place.\
+🍎 **Groceries:** I would really benefit from a more systematic approach to the way I shop for groceries and keep track of the expiration dates of food items, what I need to use up first and what I can wait longer to eat. It's a lot to keep track of in my brain. Additionally, there's the fact that some of the groceries are shared between myself and my roommate. I would be curious to see if there are systems out there that allow you to track the freshness of your food, integrate it with a grocery list builder, and a recipe generator, to help reduce food waste and create a more cohesive ecosystem out of it all. 
+ 
 
 # Week 4 #
 ## :pushpin: 09/26/2024
