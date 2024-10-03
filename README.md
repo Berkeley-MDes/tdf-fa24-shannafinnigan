@@ -6,6 +6,39 @@
 [week 1](README.md#week-1)
 
 # Week 5 #
+
+## :pushpin: 10/03/2024
+Here are some of the tutorials that I completed this week. It was supper gratifying to see them work and come together! I got to apply the vocabulary from the glossary and from what I learned from my classmates in an application of the tool. 
+
+### Button -> LED Pulse Rate
+[![button pulse rate video](https://img.youtube.com/vi/2XEWHKeJBo0/0.jpg)](https://youtu.be/2XEWHKeJBo0) 
+📹 (Click to watch the video)
+
+<kbd><img  width="300" src="assets/button-pulseRate.jpg"> </kbd>
+
+### Button Send on Change
+[![button send change video](https://img.youtube.com/vi/ejhW8jCQN-M/0.jpg)](https://youtu.be/ejhW8jCQN-M) 
+📹 (Click to watch the video)
+
+<kbd><img  width="300" src="assets/button-sendChange.jpg"> </kbd>
+
+### FSR -> LED Color
+[![fsr led color video](https://img.youtube.com/vi/ZiW2fAgsvwk/0.jpg)](https://youtu.be/ZiW2fAgsvwk) 
+📹 (Click to watch the video)
+
+<kbd><img  width="300" src="assets/fsr.jpg"> </kbd>
+
+These projects are a bit different from what we've already encountered because they involve a larger ecosystem, bringing in more hardware parts to turn input into output. In some cases, the range of input it takes in is wider than in the past. For example, the FSR- it takes in a range of pressures that are non-discrete, and changes the color value of the LED. The button, however, only takes in a binary input- is it pressed or not?
+
+## How might the demonstrations be expanded to include a new feature? 
+I would be curious to see an example with a temperature sensor. Especially now that the temperature is varying a lot, it would be interesting to see how tracking a change in temperature as input might be able to be output in a way that makes sense to users- maybe a change in color? Or a sound? A relevant application of this for me, would be to tell when the stove is heated up enough for me to start cooking on it. It takes a while for the pan to heat up, and to heat up the oil to a point where I can start cooking. However, I often wait too long and the oil gets burnt or too hot. It would be cool to see an application of these sensors that could help with this problem. 
+
+## How might Machine Learning play a role in the system you are imagining? 
+Machine Learning (ML) could enhance this system by learning from patterns in cooking behavior and stove usage. For example, over time, the system could use historical temperature data and cooking outcomes to predict optimal heating times based on specific cooking styles or recipes. ML could also be used to identify when certain ingredients, such as oil or food, are added to the pan, adjusting the heat level recommendations dynamically. With more data, the system could provide personalized recommendations on when to start cooking based on how long the stove typically takes to heat for different types of pans or heat settings.
+
+## Can you imagine the examples being combined into a larger ecosystem?
+In a larger smart kitchen ecosystem, temperature sensors could work alongside smart cookware, appliances, and AI-powered recipe assistants to create a seamless cooking experience. The system would track stove or pan temperature, alerting you when it’s ideal to start cooking via color changes or sound. Integrated machine learning would adapt to your preferences, automatically adjusting heat levels based on past cooking sessions, while ingredient recognition and recipe suggestions streamline the process. Safety features like auto shut-off and real-time monitoring ensure a hassle-free and efficient kitchen, where everything works together to deliver perfect results every time.
+
 ## :pushpin: 09/30/2024 
 
 For Monday, we had to play around with the example files. I was able to flash three of them to the Photon 2, including 02_helloworld_spell, 04_make_it_blink, and 03_altering_periodicity. This was a bit challenging at first because I had to remember the steps we had done in class, but I ended up meeting with some classmates and they helped remind me of some of the steps I forgot. For example, being able to see output using the Serial Monitor- which I didn't remember to do on my own. Check out some of the videos I made while flashing these down below! 
@@ -37,17 +70,6 @@ I don't have experience with any other microcontroller systems, so unfortunately
 ### What kinds of ecosystems are missing in your daily life?
 :notebook: **Personal Productivity:** I have really been trying to work on increasing my productivity, especially having to balance school with work. I find that the best way for me to keep track of everything ends up being analog in a notebook because The systems for taking notes on tasks, accessing assignments, tracking their progress, and managing timelines is a bit disjointed. It especially feels like there's no automation where I need it. I would like to use a more comprehensive product (maybe airtable? or notion?) to keep track of everything in one place.\
 🍎 **Groceries:** I would really benefit from a more systematic approach to the way I shop for groceries and keep track of the expiration dates of food items, what I need to use up first and what I can wait longer to eat. It's a lot to keep track of in my brain. Additionally, there's the fact that some of the groceries are shared between myself and my roommate. I would be curious to see if there are systems out there that allow you to track the freshness of your food, integrate it with a grocery list builder, and a recipe generator, to help reduce food waste and create a more cohesive ecosystem out of it all. 
-
-## :pushpin: 10/03/2024
-how do these demo projects differ from what we've looked at already in the prior examples?
-What are some similarities?
-How might the demonstrations be expanded to include a new feature? What is the feature that would be most relevant to your life?
-How might Machine Learning play a role in the system you are imagining?
-Can you imagine the examples being combined into a larger ecosystem? What would that system look like?
-
-### Button -> LED Pulse Rate
-
-
 
 # Week 4 #
 ## :pushpin: 09/26/2024
