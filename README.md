@@ -47,8 +47,6 @@ For Monday, we had to play around with the example files. I was able to flash th
 [![Blink2](https://img.youtube.com/vi/ryBazGYLk-0/0.jpg)](https://youtu.be/ryBazGYLk-0) 
 [![Blink3](https://img.youtube.com/vi/CPw7lZx2muU/0.jpg)](https://youtu.be/CPw7lZx2muU) 
 
-https://github.com/user-attachments/assets/dba4fa9f-45d7-4a89-a4ba-da74995f1df5
-
 Overall, it was cool to see! I still don't entirely understand how the pattern of blinking relates to some of the content in the code, but I will investigate that further in the coming week. 
 
 ### Playing with variables
