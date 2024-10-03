@@ -30,13 +30,13 @@ Here are some of the tutorials that I completed this week. It was supper gratify
 
 These projects are a bit different from what we've already encountered because they involve a larger ecosystem, bringing in more hardware parts to turn input into output. In some cases, the range of input it takes in is wider than in the past. For example, the FSR- it takes in a range of pressures that are non-discrete, and changes the color value of the LED. The button, however, only takes in a binary input- is it pressed or not?
 
-## How might the demonstrations be expanded to include a new feature? 
+### How might the demonstrations be expanded to include a new feature? 
 I would be curious to see an example with a temperature sensor. Especially now that the temperature is varying a lot, it would be interesting to see how tracking a change in temperature as input might be able to be output in a way that makes sense to users- maybe a change in color? Or a sound? A relevant application of this for me, would be to tell when the stove is heated up enough for me to start cooking on it. It takes a while for the pan to heat up, and to heat up the oil to a point where I can start cooking. However, I often wait too long and the oil gets burnt or too hot. It would be cool to see an application of these sensors that could help with this problem. 
 
-## How might Machine Learning play a role in the system you are imagining? 
+### How might Machine Learning play a role in the system you are imagining? 
 Machine Learning (ML) could enhance this system by learning from patterns in cooking behavior and stove usage. For example, over time, the system could use historical temperature data and cooking outcomes to predict optimal heating times based on specific cooking styles or recipes. ML could also be used to identify when certain ingredients, such as oil or food, are added to the pan, adjusting the heat level recommendations dynamically. With more data, the system could provide personalized recommendations on when to start cooking based on how long the stove typically takes to heat for different types of pans or heat settings.
 
-## Can you imagine the examples being combined into a larger ecosystem?
+### Can you imagine the examples being combined into a larger ecosystem?
 In a larger smart kitchen ecosystem, temperature sensors could work alongside smart cookware, appliances, and AI-powered recipe assistants to create a seamless cooking experience. The system would track stove or pan temperature, alerting you when it’s ideal to start cooking via color changes or sound. Integrated machine learning would adapt to your preferences, automatically adjusting heat levels based on past cooking sessions, while ingredient recognition and recipe suggestions streamline the process. Safety features like auto shut-off and real-time monitoring ensure a hassle-free and efficient kitchen, where everything works together to deliver perfect results every time.
 
 ## :pushpin: 09/30/2024 
