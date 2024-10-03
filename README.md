@@ -43,11 +43,13 @@ In a larger smart kitchen ecosystem, temperature sensors could work alongside sm
 
 For Monday, we had to play around with the example files. I was able to flash three of them to the Photon 2, including 02_helloworld_spell, 04_make_it_blink, and 03_altering_periodicity. This was a bit challenging at first because I had to remember the steps we had done in class, but I ended up meeting with some classmates and they helped remind me of some of the steps I forgot. For example, being able to see output using the Serial Monitor- which I didn't remember to do on my own. Check out some of the videos I made while flashing these down below! 
 
-https://github.com/user-attachments/assets/b6fdb29a-0a20-44a6-9440-b887d58b7891
+[![Blink1](https://img.youtube.com/vi/6dGUil3ArEM/0.jpg)](https://youtu.be/6dGUil3ArEM) 
+[![Blink2](https://img.youtube.com/vi/ryBazGYLk-0/0.jpg)](https://youtu.be/ryBazGYLk-0) 
+[![Blink3](https://img.youtube.com/vi/CPw7lZx2muU/0.jpg)](https://youtu.be/CPw7lZx2muU) 
 
 https://github.com/user-attachments/assets/dba4fa9f-45d7-4a89-a4ba-da74995f1df5
 
-I couldn't upload all the videos, because the files are too big for Github, unfortunately. But, overall, it was cool to see! I still don't entirely understand how the pattern of blinking relates to some of the content in the code, but I will investigate that further in the coming week. 
+Overall, it was cool to see! I still don't entirely understand how the pattern of blinking relates to some of the content in the code, but I will investigate that further in the coming week. 
 
 ### Playing with variables
 I played around with the delay time, as well as other variables, to see the effect on the Photon. Some were only noticeable to me in the output terminal. For example, I tried to make a for loop to print something a couple of times. This was an interesting edit- the result was the word "boing" repeated based on the number of times I specified in the for loop. I played around with different numbers to see how it affected the output as well. The beginning number I set in "i=0" was the beginning of the loop, I found, and the "i<" or "<=" was the upper limit of the loop. So for example, if I were to start at 
