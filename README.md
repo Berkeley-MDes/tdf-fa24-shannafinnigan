@@ -6,7 +6,7 @@
 [week 1](README.md#week-1)
 
 # Week 5 #
-## :pushpin: 09/30/2024
+## :pushpin: 09/30/2024 
 
 For Monday, we had to play around with the example files. I was able to flash three of them to the Photon 2, including 02_helloworld_spell, 04_make_it_blink, and 03_altering_periodicity. This was a bit challenging at first because I had to remember the steps we had done in class, but I ended up meeting with some classmates and they helped remind me of some of the steps I forgot. For example, being able to see output using the Serial Monitor- which I didn't remember to do on my own. Check out some of the videos I made while flashing these down below! 
 
@@ -37,7 +37,17 @@ I don't have experience with any other microcontroller systems, so unfortunately
 ### What kinds of ecosystems are missing in your daily life?
 :notebook: **Personal Productivity:** I have really been trying to work on increasing my productivity, especially having to balance school with work. I find that the best way for me to keep track of everything ends up being analog in a notebook because The systems for taking notes on tasks, accessing assignments, tracking their progress, and managing timelines is a bit disjointed. It especially feels like there's no automation where I need it. I would like to use a more comprehensive product (maybe airtable? or notion?) to keep track of everything in one place.\
 🍎 **Groceries:** I would really benefit from a more systematic approach to the way I shop for groceries and keep track of the expiration dates of food items, what I need to use up first and what I can wait longer to eat. It's a lot to keep track of in my brain. Additionally, there's the fact that some of the groceries are shared between myself and my roommate. I would be curious to see if there are systems out there that allow you to track the freshness of your food, integrate it with a grocery list builder, and a recipe generator, to help reduce food waste and create a more cohesive ecosystem out of it all. 
- 
+
+## :pushpin: 10/03/2024
+how do these demo projects differ from what we've looked at already in the prior examples?
+What are some similarities?
+How might the demonstrations be expanded to include a new feature? What is the feature that would be most relevant to your life?
+How might Machine Learning play a role in the system you are imagining?
+Can you imagine the examples being combined into a larger ecosystem? What would that system look like?
+
+### Button -> LED Pulse Rate
+
+
 
 # Week 4 #
 ## :pushpin: 09/26/2024
