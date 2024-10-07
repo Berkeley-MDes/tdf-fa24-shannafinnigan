@@ -15,6 +15,11 @@ Over the weekend, we had to solder our sparkfun board and experiment with some t
 
 I ended up trying the ambient light sensor tutorial with the APDS9960. Here are some videos I took of how it turned out. 
 
+[![button pulse rate video](https://img.youtube.com/vi/uUHO2BoRoN8/0.jpg)](https://youtu.be/uUHO2BoRoN8) 
+📹 (Click to watch the video)
+[![button pulse rate video](https://img.youtube.com/vi/hOkH-DvJ6zE/0.jpg)](https://youtube.com/shorts/hOkH-DvJ6zE) 
+📹 (Click to watch the video)
+
 # Week 5 #
 
 ## :pushpin: 10/03/2024
