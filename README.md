@@ -1,9 +1,16 @@
 # Shanna's Blog :tulip: #
+[week 6](README.md#week-6)\
 [week 5](README.md#week-5)\
 [week 4](README.md#week-4)\
 [week 3](README.md#week-3)\
 [week 2](README.md#week-2)\
 [week 1](README.md#week-1)
+
+# Week 6 #
+
+## :pushpin: 10/07/2024
+Over the weekend, we had to solder our sparkfun board and experiment with some tutorials. I had never soldered before, so this was a cool new experience. To be honest, I was really nervous at first. I was afraid I would damage something and render it unusable. When I got to the studio, no one was there yet, so I watched a video tutorial. I ended up asking two students from Cohort 4 to help me solder since it was my first time. They were really nice to help me out. It turned out a bit messy, but I made sure none of the pins were connected. One thing I realized was that the point I used at the beginning was too big. It was not precise enough. If I were to redo this process, I would've made the temperature higher too. The silver kept hardening really quickly. Here's a picture of how it turned out:
+
 
 # Week 5 #
 
