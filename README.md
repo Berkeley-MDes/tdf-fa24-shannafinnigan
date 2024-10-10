@@ -20,6 +20,21 @@ I ended up trying the ambient light sensor tutorial with the APDS9960. Here are 
 [![button pulse rate video](https://img.youtube.com/vi/hOkH-DvJ6zE/0.jpg)](https://youtube.com/shorts/hOkH-DvJ6zE) 
 📹 (Click to watch the video)
 
+I also worked with my group on coming up with a prject proposal for Project 2. Here's what we decided on: "Inspired by the natural behavior of "penguin pebbling," the system allows a sender to trigger an interaction that alerts the receiver of a gift. This feasibility study explores how Particle Photon 2 can facilitate meaningful, non-physical expressions of affection, offering an engaging alternative to in-person interactions, particularly for individuals who struggle with physical displays of affection. The final deliverable will be a functional prototype demonstrating this concept". I made a diagram of what the system would look like:
+
+<kbd><img width="400" alt="Screenshot 2024-10-10 at 12 59 15 PM" src="https://github.com/user-attachments/assets/d56999d0-1543-4d1a-ab01-b4bbd1868612"></kbd>
+
+I'm excited to get started on this project with my teammates. 
+
+## :key: Key Learnings
+
+1. Conquering my first soldering experience: I was really nervous going into my first soldering attempt, but with the help of two students from Cohort 4, I was able to get through it successfully. It was messy, but functional, and I learned a lot about using the right tip size and adjusting the temperature to get better results. Now I feel much more confident in my soldering abilities!
+
+2. Making great progress on Project 2: My team and I finalized our proposal for Project 2, which focuses on creating a system inspired by "penguin pebbling" using the Particle Photon 2. The idea is to allow people to send remote interactions to loved ones, mimicking the affectionate behavior of penguins. I'm really excited about how this concept is coming together, and I can’t wait to start prototyping!
+
+## :telescope: Speculations
+I think systems like the one we’re working on could really transform how people express affection and stay connected across distances. This technology could evolve into more sophisticated forms of remote communication, especially for those who struggle with physical displays of affection. It could even expand into healthcare, allowing loved ones to send supportive messages to patients, or be used in long-distance relationships where people can share intimate moments or gifts in real time. Imagine a future where meaningful interactions are sent with just the touch of a button, no matter how far apart people are. This idea could even be commercialized as a product for various emotional communication platforms, turning something as simple as a gift notification into a widely adopted form of digital affection.
+
 # Week 5 #
 
 ## :pushpin: 10/03/2024
