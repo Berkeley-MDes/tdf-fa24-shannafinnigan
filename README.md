@@ -6,9 +6,36 @@
 [week 2](README.md#week-2)\
 [week 1](README.md#week-1)
 
+# Week 7 #
+
+## :pushpin: 10/17/2024
+Since last class, we updated our project proposal with a corrected System Architecture based on feedback from Sudhu. We will have to be using 2 separate photons to communicate between one another- one will be used to collect the information on the button press and then send information through the cloud to the other photon that is inside the penguin toy, in order to turn on the LED that indicates to the reciever that they have a "gift" waiting for them. Here's the updated system:
+
+<kbd><img width="500" alt="Screenshot 2024-10-17 at 8 47 34 AM" src="https://github.com/user-attachments/assets/bac1e2b9-a65a-4adc-bfad-e9b5bb163011"></kbd>
+
+My experiments throughout the weekend and during the week pertained to connecting the proximity sensor to the servo, and having it move depending on the user's proximity to the sensor. I got it to work quite well with a 250 millisecond delay. Here is the video:
+
+[![button pulse rate video](https://img.youtube.com/vi/aeM_QMwQEcY/0.jpg)](https://youtu.be/aeM_QMwQEcY) 
+📹 (Click to watch the video)
+
+After meeting with Sudhu, we decided to play around with the delay, and made it a lot smaller, which got the proximity sensor working really well + accurately, but seemed to be overwhelming the servo with information. It ended up being static once we changed this code. So I had to keep playing around with it. It was just generally pretty spotty, and we wanted our users' experience to be consistent. So, we were debating using an Ultrasonic sensor instead, even though it's technically not a STEMMA QT piece. 
+Latest update as of last night- Kaden ended up doing some parallel experiments on his end, and found that the proximity sensor had a lot less problems and was more compatible with the servo. Here is a video of the servo working pretty well! Right now, it rotates 90 degrees if the user is within 5cm and 10 cm, and rotates 180 degrees when the user is less than 5 cm from the sensor. 
+
+[![button pulse rate video](https://img.youtube.com/vi/rK08mMX9k98/0.jpg)](https://youtu.be/rK08mMX9k98) 
+📹 (Click to watch the video)
+
+## :key: Key Learnings
+
+1. Iteration based on feedback: After meeting with Sudhu, we made important adjustments to our project proposal, particularly the system architecture. We realized that using two separate Photon microcontrollers to communicate via the cloud is crucial to ensuring smooth interaction between the button press and the LED in the penguin toy. This feedback really helped us clarify the technical approach and improved our design moving forward.
+
+2. Changing sensors to generate output more effectively: I spent a lot of time experimenting with connecting the proximity sensor to the servo and adjusting the delay to get more consistent results. While initial adjustments caused the servo to become static, we were able to improve the performance through more testing. My teammate Kaden also had success on his end, showing that the proximity sensor could still work well, which was a relief and allowed us to refine the system further.
+
+## :telescope: Speculations
+I think our project will have its ups and downs as we fine-tune the technical aspects, particularly with the communication between the two Photon microcontrollers. While we’ve already run into some challenges, like getting the proximity sensor and servo to work smoothly together, I’m optimistic that with more testing and adjustments, we’ll be able to create a reliable and engaging system. There will likely be some unexpected obstacles, but I believe we’ll overcome them by collaborating and troubleshooting together. I’m excited to see how the project comes together and feel confident that we’ll have a working prototype that captures the essence of "penguin pebbling" by next week! So far, we are learning a lot, and that's really what matters!
+
 # Week 6 #
 
-## :pushpin: 10/07/2024
+## :pushpin: 10/10/2024
 Over the weekend, we had to solder our sparkfun board and experiment with some tutorials. I had never soldered before, so this was a cool new experience. To be honest, I was really nervous at first. I was afraid I would damage something and render it unusable. When I got to the studio, no one was there yet, so I watched a video tutorial. I ended up asking two students from Cohort 4 to help me solder since it was my first time. They were really nice to help me out. It turned out a bit messy, but I made sure none of the pins were connected. One thing I realized was that the point I used at the beginning was too big. It was not precise enough. If I were to redo this process, I would've made the temperature higher too. The silver kept hardening really quickly. Here's a picture of how it turned out:
 
 <kbd><img  width="400" src="assets/soldered.jpg"> </kbd>
@@ -20,7 +47,7 @@ I ended up trying the ambient light sensor tutorial with the APDS9960. Here are 
 [![button pulse rate video](https://img.youtube.com/vi/hOkH-DvJ6zE/0.jpg)](https://youtube.com/shorts/hOkH-DvJ6zE) 
 📹 (Click to watch the video)
 
-I also worked with my group on coming up with a prject proposal for Project 2. Here's what we decided on: "Inspired by the natural behavior of "penguin pebbling," the system allows a sender to trigger an interaction that alerts the receiver of a gift. This feasibility study explores how Particle Photon 2 can facilitate meaningful, non-physical expressions of affection, offering an engaging alternative to in-person interactions, particularly for individuals who struggle with physical displays of affection. The final deliverable will be a functional prototype demonstrating this concept". I made a diagram of what the system would look like:
+I also worked with my group on coming up with a project proposal for Project 2. Here's what we decided on: "Inspired by the natural behavior of "penguin pebbling," the system allows a sender to trigger an interaction that alerts the receiver of a gift. This feasibility study explores how Particle Photon 2 can facilitate meaningful, non-physical expressions of affection, offering an engaging alternative to in-person interactions, particularly for individuals who struggle with physical displays of affection. The final deliverable will be a functional prototype demonstrating this concept". I made a diagram of what the system would look like:
 
 <kbd><img width="400" alt="Screenshot 2024-10-10 at 12 59 15 PM" src="https://github.com/user-attachments/assets/d56999d0-1543-4d1a-ab01-b4bbd1868612"></kbd>
 
