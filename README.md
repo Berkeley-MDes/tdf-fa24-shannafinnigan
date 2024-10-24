@@ -1,4 +1,5 @@
 # Shanna's Blog :tulip: #
+[week 8](README.md#week-8)\
 [week 7](README.md#week-7)\
 [week 6](README.md#week-6)\
 [week 5](README.md#week-5)\
@@ -6,6 +7,14 @@
 [week 3](README.md#week-3)\
 [week 2](README.md#week-2)\
 [week 1](README.md#week-1)
+
+# Week 8 #
+
+## :pushpin: 10/24/2024
+This week, everything came together for our project. The details of our process + fabrication journey is in our presentation video! We have also included takeaways and speculations.
+
+[![Pebble the Penguin final video](https://img.youtube.com/vi/rlCe2-WixAo/0.jpg)](https://youtu.be/rlCe2-WixAo) 
+📹 (Click to watch the video)
 
 # Week 7 #
 
