@@ -1,4 +1,5 @@
 # Shanna's Blog :tulip: #
+[week 9](README.md#week-9)\
 [week 8](README.md#week-8)\
 [week 7](README.md#week-7)\
 [week 6](README.md#week-6)\
@@ -7,6 +8,32 @@
 [week 3](README.md#week-3)\
 [week 2](README.md#week-2)\
 [week 1](README.md#week-1)
+
+# Week 9 #
+
+## :pushpin: 10/31/2024 🎃
+This week, I worked on the experiments TJ posted tutorials to for Zerowidth. I managed to get through four, and will both finish the last one and experiment further with the other four over the coming weekend. Here are the links to the specific tutorials I did:
+
+1. [Shanna GPT Experiment 01 Demo](https://zerowidth.ai/c/demo/sLdipFF8KUjgXXo0JMda/draft)
+2. [Shanna GPT+INSTRUCT Experiment 01](https://zerowidth.ai/c/demo/mTKGtpccfjLKS6O79ATd/draft)
+3. [Shanna GPT+INSTRUCT+RAG Experiment 01](https://zerowidth.ai/c/demo/9i1ydXpmjZ67alSCdaj1/draft)
+4. [Shanna GPT+INSTRUCT+RAG+VARIABLE Experiment 01](https://zerowidth.ai/c/demo/XvTeK9hB4XWqJdui7xpO/draft)
+
+Generally, I found that I had to play around with chunking and similarity thresholds a bit in order to get the information to come as accurate. One thing I might consider doing for my final iteration is combing through and chunking the data meaningfully myself first, maybe separating by week, in a spreadsheet so that it's easy for me to export as csv and then load in. Hopefully, this will help the LLM along in processing and recalling the information. It kept making up information for specific topics as I asked more granular questions:
+
+<img height="422" alt="Screenshot 2024-10-31 at 1 22 39 PM" src="https://github.com/user-attachments/assets/06985dbb-98d6-4e4f-af19-6c35f5c2c470">
+<img height="422" alt="Screenshot 2024-10-31 at 1 31 40 PM" src="https://github.com/user-attachments/assets/57c4a6a7-9072-47de-884a-67864811a64c">
+
+These were flat-out wrong, even though the answers are clearly stated in my repository. I'm going to have to continue working on this. Furthermore, the variables experiment is where I got a bit confused. I'm going to keep looking into this over the weekend. But, while the dates are very relevant to the information I'm trying to query, it doesn't show up correctly. I want to experiment with embedding techniques that prioritize context around dates and themes. I could try structuring data by week or by theme (e.g., “Projects,” “Applications,” “Experiments”). 
+
+## :key: Key Learnings
+
+1. Meaningful Data Chunking Matters: Organizing data into meaningful chunks (e.g., by week) improves the model's ability to retrieve specific information accurately.
+2. Similarity Thresholds Need Adjustment: Playing with similarity thresholds is crucial; setting them too high or too low can lead to inaccurate or fabricated responses.
+3. LLMs Can Fabricate Information: This was pretty surprising and weird... Despite clear data, LLMs may generate incorrect responses. Structuring data effectively and being clear in prompts can reduce this.
+
+## :telescope: Speculations
+Organizing data by week or theme could improve the model's accuracy by helping it prioritize context and retrieve information more precisely. Adapting similarity thresholds based on query complexity may also enhance responses, with higher thresholds for simple questions and more flexibility for open-ended ones. Adding a date-specific pre-processing layer might solve issues with incorrect dates by matching questions to the most relevant timeframes. Overall, these adjustments could create a model that feels more intuitive and aligned with natural memory processes.
 
 # Week 8 #
 
