@@ -12,7 +12,7 @@
 # Week 9 #
 
 ## :pushpin: 10/31/2024 🎃
-This week, I worked on the experiments TJ posted tutorials to for Zerowidth. I managed to get through four, and will both finish the last one and experiment further with the other four over the coming weekend. Here are the links to the specific tutorials I did:
+This week, I worked on the experiments TJ posted tutorials to for Zerowidth. Here are the links to the specific tutorials I did:
 
 1. [Shanna GPT Experiment 01 Demo](https://zerowidth.ai/c/demo/sLdipFF8KUjgXXo0JMda/draft)
 2. [Shanna GPT+INSTRUCT Experiment 01](https://zerowidth.ai/c/demo/mTKGtpccfjLKS6O79ATd/draft)
