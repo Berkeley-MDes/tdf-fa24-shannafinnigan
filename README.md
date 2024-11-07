@@ -1,4 +1,5 @@
 # Shanna's Blog :tulip: #
+[week 10](README.md#week-10)\
 [week 9](README.md#week-9)\
 [week 8](README.md#week-8)\
 [week 7](README.md#week-7)\
@@ -8,6 +9,22 @@
 [week 3](README.md#week-3)\
 [week 2](README.md#week-2)\
 [week 1](README.md#week-1)
+
+# Week 10 #
+
+## :pushpin: 11/07/2024 
+Here is the video I made for the final version of Shannabot, my AI agent that you can ask any question about my experience during TDF. She is a little bit sassy, and very playful- and outputs formatted outputs for easy reading and understanding. 
+
+[![Shannabot final video](https://img.youtube.com/vi/K_jltoV5jUo/0.jpg)](https://youtu.be/K_jltoV5jUo) 📹 (Click to watch the video)
+
+## :key: Key Learnings
+
+1. Clear Instructions and Context Improve Accuracy: Providing the AI with direct instructions and relevant variables like location and year helps it generate more precise and context-aware responses.
+2. Chunking Knowledge Boosts Retrieval: Organizing information into smaller, focused chunks enhances the AI’s ability to pull accurate details from the knowledge base, although this requires careful setup.
+3. Combining Techniques Yields the Best Results: Integrating model settings, instructions, RAG, and variables creates a well-rounded, accurate chatbot capable of delivering detailed responses aligned with user needs.
+
+## :telescope: Speculations
+As AI agents become integrated into our daily lives, especially in the workplace, I see a world where companies are able to shift their focus to innovation/ ideation, rather than the menial every-day tasks that can now be automated. The way we make things will definitely change- AI will be a tool that helps democratize many “making” processes. It already has made coding more accessible, and as we see generative tools expand into other fields (3D modeling, UI), more people will be able to make more complex things! It will be interesting to see AI being used to train other AIs. We might start expecting AI systems to be more self-sustaining, meaning they would require less direct human oversight over time.
 
 # Week 9 #
 
