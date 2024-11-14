@@ -14,7 +14,15 @@
 # Week 11 #
 
 ## :pushpin: 11/14/2024 
-Submitted my report for Project 3 this week! It was really interesting, and especially because it was such a quick and short project, I think I'm going to be using ZeroWidth for my final project, Project 4. Especially because I'm currently learning a lot about UX Research Operations in my internship, I've been seeing a common pain point when it comes to storing and managing research repositories. It's a lot of work to 
+Submitted my report for Project 3 this week! It was really interesting, and especially because it was such a quick and short project, I think I'm going to be using ZeroWidth for my final project, Project 4. Especially because I'm currently learning a lot about UX Research Operations in my internship, I've been seeing a common pain point when it comes to storing and managing research repositories. It's especially hard to search through the data afterwards, because most of the insights are written out in google docs that aren't readable in Airtable or Google Sheets. After talking with my manager, she said that she imagines a future where researchers (and other stakeholders, including PMs, managers, designers, etc.) can ask a Research Repository chatbot a question about any of the research they've conducted over the years and the chatbot will supply them with relevant insights and information. 
+Buiding this out with ZeroWidth, along with a UI in Figma, would be my goal for the final project. I'd like to include user interviews and testing to may iterative improvements along the way. 
+
+1. Clear Instructions and Context Improve Accuracy: Providing the AI with direct instructions and relevant variables like location and year helps it generate more precise and context-aware responses.
+2. Chunking Knowledge Boosts Retrieval: Organizing information into smaller, focused chunks enhances the AI’s ability to pull accurate details from the knowledge base, although this requires careful setup.
+3. Combining Techniques Yields the Best Results: Integrating model settings, instructions, RAG, and variables creates a well-rounded, accurate chatbot capable of delivering detailed responses aligned with user needs.
+
+## :telescope: Speculations
+As AI agents become integrated into our daily lives, especially in the workplace, I see a world where companies are able to shift their focus to innovation/ ideation, rather than the menial every-day tasks that can now be automated. The way we make things will definitely change- AI will be a tool that helps democratize many “making” processes. It already has made coding more accessible, and as we see generative tools expand into other fields (3D modeling, UI), more people will be able to make more complex things! It will be interesting to see AI being used to train other AIs. We might start expecting AI systems to be more self-sustaining, meaning they would require less direct human oversight over time.
 
 # Week 10 #
 
