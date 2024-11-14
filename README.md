@@ -1,4 +1,5 @@
 # Shanna's Blog :tulip: #
+[week 11](README.md#week-11)\
 [week 10](README.md#week-10)\
 [week 9](README.md#week-9)\
 [week 8](README.md#week-8)\
@@ -9,6 +10,11 @@
 [week 3](README.md#week-3)\
 [week 2](README.md#week-2)\
 [week 1](README.md#week-1)
+
+# Week 11 #
+
+## :pushpin: 11/14/2024 
+Submitted my report for Project 3 this week! It was really interesting, and especially because it was such a quick and short project, I think I'm going to be using ZeroWidth for my final project, Project 4. Especially because I'm currently learning a lot about UX Research Operations in my internship, I've been seeing a common pain point when it comes to storing and managing research repositories. It's a lot of work to 
 
 # Week 10 #
 
