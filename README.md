@@ -1,4 +1,5 @@
 # Shanna's Blog :tulip: #
+[week 12](README.md#week-12)\
 [week 11](README.md#week-11)\
 [week 10](README.md#week-10)\
 [week 9](README.md#week-9)\
@@ -10,6 +11,27 @@
 [week 3](README.md#week-3)\
 [week 2](README.md#week-2)\
 [week 1](README.md#week-1)
+
+# Week 12 #
+
+## :pushpin: 11/21/2024 
+I can't believe how fast the semester is flying by! Overall, I feel good about our cohort's performance this week. I enjoyed seeing everyone's personal passions and interests come through earlier this week during the Project 4 proposal pin-up session. It was great to see the wide array of ideas and ways of applying the skills and technologies we learned over the semester. I also feel good about my personal performance. I worked hard on my proposal and really thought through how to balance what I want to gain from this class/ program with my professional pursuits and what was expected in the coursework. I feel that I came to an adequate balance of those things in my final project pitch. Here is the system architecture and user flow I'm thinking of for the UXplorer AI Agent. 
+
+<kbd><img width="880" alt="Proj43" src="https://github.com/user-attachments/assets/52e5ca0e-bf1b-4205-a4c6-b68521f75f8e"></kbd>
+
+Here's how I think it should flow: Users use the AI-powered UXR agent to make decisions by asking natural language questions like, “What are the main usability challenges for feature X?” The agent prompts them to fill in details like their role or timeframe, then delivers tailored insights. They can refine the results with follow-up questions and export the findings in a shareable format, making decision-making faster and easier.
+
+<kbd><img width="880" alt="Project4-2" src="https://github.com/user-attachments/assets/5a719a8a-d856-4555-ae54-c1a0cfa65c7a"></kbd>
+
+## :key: Key Learnings
+1. I learned that balancing simplicity and functionality is critical—while adding detailed input fields or customization options can make the tool more powerful, too much complexity risks overwhelming users and reducing adoption.
+2. I realized the importance of context-aware AI outputs; tailoring insights to specific roles (like PMs or designers) significantly enhances the tool's value, but it requires thoughtful design to ensure the system understands and adapts to diverse user needs effectively.
+
+## :telescope: Speculations
+Some speculations/ questions I have to think about as we head into developing this project...
+1. Scalability of Insights Retrieval: As the research database grows, will the AI agent be able to efficiently process and retrieve relevant insights without compromising speed or accuracy, especially for complex queries involving multiple variables?
+2. User Adoption and Interaction Patterns: Will stakeholders find the process of filling in variables and asking follow-up questions intuitive and valuable, or will they prefer a simpler, more automated solution that requires less input?
+3. Balancing Customization and Generalization: How can the agent deliver insights that are specific and actionable for individual roles (e.g., PMs vs. designers) while maintaining a generalized system architecture that works for all stakeholders across the pipeline?
 
 # Week 11 #
 
