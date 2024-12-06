@@ -1,4 +1,5 @@
 # Shanna's Blog :tulip: #
+[week 13](README.md#week-13)\
 [week 12](README.md#week-12)\
 [week 11](README.md#week-11)\
 [week 10](README.md#week-10)\
@@ -12,6 +13,27 @@
 [week 2](README.md#week-2)\
 [week 1](README.md#week-1)
 
+# Week 13 #
+
+## :pushpin: 12/05/2024 
+This week has been a lot of work. All the deadlnes and projects are falling into place at once- and of course, I got sick at the most inconvenient time! My cohort's performance this week was good. It was great to see everyone after break. Everyone was very curious about each other's projects, and still offering help, words of encouragement, and suggestions. This was super helpful and very appreciated. Especially at the Studio Showcase, it was great to see everyone looking at each other's work, seeing how everyone's unique perspectives and styles have come through over the semester. I feel pretty good about my performance. I tried to work on P4 over the break, and keep thinking about how the concept might be improved. I have been sick, so it's been hard to collaborate with other students this past week, which has gone to show just how much of a difference that made in past weeks. 
+Anywho, we ended up updating our user flow for UXplorer, and I'll share some of the initial wireframing we did here as well. 
+<img width="730" alt="Screenshot 2024-12-06 at 7 53 59 AM" src="https://github.com/user-attachments/assets/f2cfd77b-a7fe-458a-bad3-de7a5c957e41">
+<img width="730" alt="Screenshot 2024-12-06 at 7 54 48 AM" src="https://github.com/user-attachments/assets/0eede37e-179f-45fc-a0eb-107cd77e172d">
+
+We also have our Zerowidth working to a degree. Would be nice to add some more variables though to really hone in our answers. We were able to connect it to Postman successfully as well, which was a struggle at first. 
+
+<img width="1130" alt="Screenshot 2024-12-06 at 7 56 41 AM" src="https://github.com/user-attachments/assets/5d78e8bb-5963-4e74-8e87-e3522520f839">
+
+## :key: Key Learnings
+1. Balancing automation with user control enhances engagement and trust. People want smart tools that help out but still let them stay in the driver’s seat—it’s all about finding that sweet spot.
+2. Iterative feedback loops are essential for refining AI behavior and relevance. Tweaking things based on real feedback makes a huge difference—it’s the little adjustments that make the tool actually useful.
+
+## :telescope: Speculations
+Some speculations/ questions I have to think about as we head into developing this project...
+1. How can visualizations ensure users quickly grasp key takeaways without complexity? Can we design visuals that are clear and snappy, so users get what they need without feeling overwhelmed?
+2. Can the agent predict user needs effectively without overstepping user autonomy? How do we make the agent helpful with predictions while still letting users feel in control?
+   
 # Week 12 #
 
 ## :pushpin: 11/21/2024 
